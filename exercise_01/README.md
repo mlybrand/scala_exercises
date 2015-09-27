@@ -15,3 +15,11 @@ So, let me get to learning.
 ## Observations
 
 * stored values are immutable. 
+
+## Progress
+
+* I know how to print
+* I know how to store values
+* I know how to concatenate
+
+I still need to figure out how to prompt for input...
