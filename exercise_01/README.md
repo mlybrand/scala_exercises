@@ -11,3 +11,7 @@ So, I need to figure out the following things in Scala before I have all the pie
 4. How to interpolate or concatenate.
 
 So, let me get to learning.
+
+## Observations
+
+* stored values are immutable. 
