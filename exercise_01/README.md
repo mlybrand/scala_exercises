@@ -15,7 +15,10 @@ So, let me get to learning.
 ## Observations
 
 * stored values are immutable.
-* the book I am using presents val before var.  val's are immutable (and unreassignable). var is the variable that I am used to. 
+* the book I am using presents val before var.  val's are immutable (and unreassignable). var is the variable that I am used to.
+* Unit is probably important... Kinda like NilClass in Ruby, null in C# (JS is a bit more loosey-goosey about this aspect).
+
+ 
 
 ## Progress
 
