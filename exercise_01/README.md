@@ -27,3 +27,8 @@ So, let me get to learning.
 * I know how to concatenate
 
 I still need to figure out how to prompt for input...
+
+## Challenges
+
+Now that I have finished the first exercise, on to the first challenge.  Repeat the app, but without using variables (I will assume they mean not using vals either).
+

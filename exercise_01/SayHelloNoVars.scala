@@ -1,0 +1,1 @@
+println("Hello, " + io.StdIn.readLine("What is your name? ") + ", nice to meet you!")
